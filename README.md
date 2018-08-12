@@ -12,7 +12,7 @@
   
   host> ```docker-compose up -d httpd mysql php```
   
-  After running the server, the API will be accessible at URL ```http://myhammer.loc/```
+  After running the server, the API will be accessible at URL ```http://myhammer.loc/``` For example, to access the list of Services, send a GET request to ```http://myhammer.loc/services``` More information can be found bellow in API documentation.
   
   To enter into the php container, depending upon your operating system
   
