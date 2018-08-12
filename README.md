@@ -158,7 +158,7 @@
   
 **Save Single Job**
 ----
-  Returns json data about requested Job with related Service.
+  Save a new Job. 
 
 * **URL**
 
