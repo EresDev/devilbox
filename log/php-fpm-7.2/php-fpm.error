@@ -1671,3 +1671,5 @@ Stack trace:
 [12-Aug-2018 22:19:49] WARNING: [pool www] child 79069 said into stderr: "2018-08-12T22:19:49+02:00 [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "POST /job/"" at /shared/httpd/myhammer/app/vendor/symfony/http-kernel/EventListener/RouterListener.php line 139"
 [12-Aug-2018 22:20:22] WARNING: [pool www] child 79112 said into stderr: "2018-08-12T22:20:22+02:00 [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\MethodNotAllowedHttpException: "No route found for "POST /job/999": Method Not Allowed (Allow: GET, PUT, DELETE)" at /shared/httpd/myhammer/app/vendor/symfony/http-kernel/EventListener/RouterListener.php line 143"
 [12-Aug-2018 22:20:31] WARNING: [pool www] child 79112 said into stderr: "2018-08-12T22:20:31+02:00 [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "POST /job/"" at /shared/httpd/myhammer/app/vendor/symfony/http-kernel/EventListener/RouterListener.php line 139"
+[13-Aug-2018 00:30:26] NOTICE: Terminating ...
+[13-Aug-2018 00:30:26] NOTICE: exiting, bye-bye!

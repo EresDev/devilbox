@@ -25,6 +25,14 @@
   linux-host> ```shell.sh```
   
   Use tool like postman to test the API. https://www.getpostman.com/
+  
+  In case you need to update MySQL database details, you have to make two databases and configure them in two places. One of phpunit and other for live. 
+  
+  For live makes changes in ```devilbox/data/www/myhammer/app/.env``` file.
+  
+  For phpunit makes changes in ```devilbox/data/www/myhammer/app/phpunit.xml.dist``` file.
+  
+  I see that git ignored several folder from devilbox while pushing to github. I believe those are related to environment. But if you need complete folder, I have uploaded it on wetransfer. Here https://we.tl/MkLdKs5koO
 
 **Get list of Services**
 ----

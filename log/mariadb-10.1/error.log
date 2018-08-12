@@ -429,3 +429,11 @@ Version: '10.1.31-MariaDB'  socket: '/tmp/mysql/mysqld.sock'  port: 3306  MariaD
 2018-08-12 11:40:31 139929801099520 [Warning] 'proxies_priv' entry '@% root@mysql' ignored in --skip-name-resolve mode.
 2018-08-12 11:40:31 139929801099520 [Note] mysqld: ready for connections.
 Version: '10.1.31-MariaDB'  socket: '/tmp/mysql/mysqld.sock'  port: 3306  MariaDB Server
+2018-08-13  0:30:22 139929800010496 [Note] mysqld: Normal shutdown
+2018-08-13  0:30:22 139929800010496 [Note] Event Scheduler: Purging the queue. 0 events
+2018-08-13  0:30:22 139929048815360 [Note] InnoDB: FTS optimize thread exiting.
+2018-08-13  0:30:22 139929800010496 [Note] InnoDB: Starting shutdown...
+2018-08-13  0:30:23 139929800010496 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2018-08-13  0:30:24 139929800010496 [Note] InnoDB: Shutdown completed; log sequence number 2242443
+2018-08-13  0:30:24 139929800010496 [Note] mysqld: Shutdown complete
+
