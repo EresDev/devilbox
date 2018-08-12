@@ -26,7 +26,7 @@
   
   Use tool like postman to test the API. https://www.getpostman.com/
   
-  In case you need to update MySQL database details, you have to make two databases and configure them in two places. One of phpunit and other for live. 
+  In case you need to update MySQL database details, you have to make two databases and configure them in two places. One of phpunit and other for live. There are SQL files present for both in ```devilbox/data/www/myhammer``` directory. 
   
   For live makes changes in ```devilbox/data/www/myhammer/app/.env``` file.
   
