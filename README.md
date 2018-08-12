@@ -1,4 +1,4 @@
-**MyHammer RESTful API**
+**MyHammer REST API**
 ----
   The API provides CRUD operations on entity Job and read-only access to the list of entity Service.
   
