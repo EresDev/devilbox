@@ -1,0 +1,3 @@
+2018/08/10 16:05:22 [error] 198#198: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.16.238.1, server: _, request: "GET /vhosts.php HTTP/1.1", upstream: "fastcgi://172.16.238.10:9000", host: "localhost"
+2018/08/10 16:05:23 [error] 198#198: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.16.238.1, server: _, request: "GET /vhosts.php HTTP/1.1", upstream: "fastcgi://172.16.238.10:9000", host: "localhost"
+2018/08/10 18:26:44 [error] 246#246: *98 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.16.238.1, server: _, request: "POST /vendor/phpmyadmin-4.8/index.php HTTP/1.1", upstream: "fastcgi://172.16.238.10:9000", host: "localhost"

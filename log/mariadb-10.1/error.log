@@ -1,0 +1,431 @@
+2018-08-08 21:02:00 140701408254208 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-08 21:02:01 140701408254208 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-08 21:02:01 140701408254208 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-08 21:02:01 140701408254208 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-08-08 21:02:01 140701408254208 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2018-08-08 21:02:01 140701408254208 [Note] InnoDB: Compressed tables use zlib 1.2.7
+2018-08-08 21:02:01 140701408254208 [Note] InnoDB: Using Linux native AIO
+2018-08-08 21:02:01 140701408254208 [Note] InnoDB: Using SSE crc32 instructions
+2018-08-08 21:02:01 140701408254208 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2018-08-08 21:02:01 140701408254208 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-08 21:02:01 140701408254208 [Note] InnoDB: The first specified data file ./ibdata1 did not exist: a new database to be created!
+2018-08-08 21:02:01 140701408254208 [Note] InnoDB: Setting file ./ibdata1 size to 12 MB
+2018-08-08 21:02:01 140701408254208 [Note] InnoDB: Setting log file ./ib_logfile101 size to 48 MB
+2018-08-08 21:02:01 140701408254208 [Note] InnoDB: Setting log file ./ib_logfile1 size to 48 MB
+2018-08-08 21:02:02 140701408254208 [Note] InnoDB: Renaming log file ./ib_logfile101 to ./ib_logfile0
+2018-08-08 21:02:02 140701408254208 [Warning] InnoDB: New log files created, LSN=45781
+2018-08-08 21:02:02 140701408254208 [Note] InnoDB: Doublewrite buffer not found: creating new
+2018-08-08 21:02:02 140701408254208 [Note] InnoDB: Doublewrite buffer created
+2018-08-08 21:02:02 140701408254208 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-08 21:02:02 140701408254208 [Warning] InnoDB: Creating foreign key constraint system tables.
+2018-08-08 21:02:02 140701408254208 [Note] InnoDB: Foreign key constraint system tables created
+2018-08-08 21:02:02 140701408254208 [Note] InnoDB: Creating tablespace and datafile system tables.
+2018-08-08 21:02:02 140701408254208 [Note] InnoDB: Tablespace and datafile system tables created.
+2018-08-08 21:02:02 140701408254208 [Note] InnoDB: Waiting for purge to start
+2018-08-08 21:02:02 140701408254208 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.36-83.0 started; log sequence number 0
+2018-08-08 21:02:02 140700603643648 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-08 21:02:05 139803514202368 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-08 21:02:05 139803514202368 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-08 21:02:05 139803514202368 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-08 21:02:05 139803514202368 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-08-08 21:02:05 139803514202368 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2018-08-08 21:02:05 139803514202368 [Note] InnoDB: Compressed tables use zlib 1.2.7
+2018-08-08 21:02:05 139803514202368 [Note] InnoDB: Using Linux native AIO
+2018-08-08 21:02:05 139803514202368 [Note] InnoDB: Using SSE crc32 instructions
+2018-08-08 21:02:05 139803514202368 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2018-08-08 21:02:05 139803514202368 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-08 21:02:05 139803514202368 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-08 21:02:05 139803514202368 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-08 21:02:05 139803514202368 [Note] InnoDB: Waiting for purge to start
+2018-08-08 21:02:05 139803514202368 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.36-83.0 started; log sequence number 1616697
+2018-08-08 21:02:05 139802712209152 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-08 21:02:08 139897564928256 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-08 21:02:08 139897564928256 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-08 21:02:08 139897564928256 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-08 21:02:08 139897564928256 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-08-08 21:02:08 139897564928256 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2018-08-08 21:02:08 139897564928256 [Note] InnoDB: Compressed tables use zlib 1.2.7
+2018-08-08 21:02:08 139897564928256 [Note] InnoDB: Using Linux native AIO
+2018-08-08 21:02:08 139897564928256 [Note] InnoDB: Using SSE crc32 instructions
+2018-08-08 21:02:08 139897564928256 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2018-08-08 21:02:08 139897564928256 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-08 21:02:08 139897564928256 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-08 21:02:08 139897564928256 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-08 21:02:08 139897564928256 [Note] InnoDB: Waiting for purge to start
+2018-08-08 21:02:08 139897564928256 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.36-83.0 started; log sequence number 1616707
+2018-08-08 21:02:08 139896765282048 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-08 21:02:11 139880694876416 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-08 21:02:11 139880694876416 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-08 21:02:11 139880694876416 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-08 21:02:11 139880694876416 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-08-08 21:02:11 139880694876416 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2018-08-08 21:02:11 139880694876416 [Note] InnoDB: Compressed tables use zlib 1.2.7
+2018-08-08 21:02:11 139880694876416 [Note] InnoDB: Using Linux native AIO
+2018-08-08 21:02:11 139880694876416 [Note] InnoDB: Using SSE crc32 instructions
+2018-08-08 21:02:11 139880694876416 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2018-08-08 21:02:11 139880694876416 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-08 21:02:11 139880694876416 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-08 21:02:11 139880694876416 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-08 21:02:11 139880694876416 [Note] InnoDB: Waiting for purge to start
+2018-08-08 21:02:11 139880694876416 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.36-83.0 started; log sequence number 1616717
+2018-08-08 21:02:11 139879891597056 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-08 21:02:11 139880694876416 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-08 21:02:11 139880694876416 [Warning] 'user' entry 'root@mysql' ignored in --skip-name-resolve mode.
+2018-08-08 21:02:11 139880694876416 [Warning] 'user' entry '@mysql' ignored in --skip-name-resolve mode.
+2018-08-08 21:02:11 139880694876416 [Warning] 'proxies_priv' entry '@% root@mysql' ignored in --skip-name-resolve mode.
+2018-08-08 21:02:11 139880694876416 [Note] mysqld: ready for connections.
+Version: '10.1.31-MariaDB'  socket: '/tmp/mysql/mysqld.sock'  port: 0  MariaDB Server
+2018-08-08 21:02:12 139880693787392 [Warning] 'proxies_priv' entry '@% root@mysql' ignored in --skip-name-resolve mode.
+2018-08-08 21:02:12 139880693787392 [Note] mysqld: Normal shutdown
+2018-08-08 21:02:12 139880693787392 [Note] Event Scheduler: Purging the queue. 0 events
+2018-08-08 21:02:12 139879950296832 [Note] InnoDB: FTS optimize thread exiting.
+2018-08-08 21:02:12 139880693787392 [Note] InnoDB: Starting shutdown...
+2018-08-08 21:02:13 139880693787392 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2018-08-08 21:02:14 139880693787392 [Note] InnoDB: Shutdown completed; log sequence number 1616727
+2018-08-08 21:02:14 139880693787392 [Note] mysqld: Shutdown complete
+
+2018-08-08 21:02:15 140273440385280 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-08 21:02:16 140273440385280 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-08 21:02:16 140273440385280 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-08 21:02:16 140273440385280 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-08-08 21:02:16 140273440385280 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2018-08-08 21:02:16 140273440385280 [Note] InnoDB: Compressed tables use zlib 1.2.7
+2018-08-08 21:02:16 140273440385280 [Note] InnoDB: Using Linux native AIO
+2018-08-08 21:02:16 140273440385280 [Note] InnoDB: Using SSE crc32 instructions
+2018-08-08 21:02:16 140273440385280 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2018-08-08 21:02:16 140273440385280 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-08 21:02:16 140273440385280 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-08 21:02:16 140273440385280 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-08 21:02:16 140273440385280 [Note] InnoDB: Waiting for purge to start
+2018-08-08 21:02:16 140273440385280 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.36-83.0 started; log sequence number 1616727
+2018-08-08 21:02:16 140272637835008 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-08 21:02:16 140273440385280 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-08 21:02:16 140273440385280 [Note] Server socket created on IP: '0.0.0.0'.
+2018-08-08 21:02:16 140273440385280 [Warning] 'proxies_priv' entry '@% root@mysql' ignored in --skip-name-resolve mode.
+2018-08-08 21:02:16 140273440385280 [Note] mysqld: ready for connections.
+Version: '10.1.31-MariaDB'  socket: '/tmp/mysql/mysqld.sock'  port: 3306  MariaDB Server
+2018-08-09  0:03:58 140273439296256 [Note] mysqld: Normal shutdown
+2018-08-09  0:03:58 140273439296256 [Note] Event Scheduler: Purging the queue. 0 events
+2018-08-09  0:03:58 140272696534784 [Note] InnoDB: FTS optimize thread exiting.
+2018-08-09  0:03:58 140273439296256 [Note] InnoDB: Starting shutdown...
+2018-08-09  0:03:59 140273439296256 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2018-08-09  0:04:00 140273439296256 [Note] InnoDB: Shutdown completed; log sequence number 1616737
+2018-08-09  0:04:01 140273439296256 [Note] mysqld: Shutdown complete
+
+2018-08-09  0:04:45 139661013031168 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-09  0:04:45 139661013031168 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-09  0:04:45 139661013031168 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-09  0:04:45 139661013031168 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-08-09  0:04:45 139661013031168 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2018-08-09  0:04:45 139661013031168 [Note] InnoDB: Compressed tables use zlib 1.2.7
+2018-08-09  0:04:45 139661013031168 [Note] InnoDB: Using Linux native AIO
+2018-08-09  0:04:45 139661013031168 [Note] InnoDB: Using SSE crc32 instructions
+2018-08-09  0:04:45 139661013031168 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2018-08-09  0:04:45 139661013031168 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-09  0:04:45 139661013031168 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-09  0:04:45 139661013031168 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-09  0:04:45 139661013031168 [Note] InnoDB: Waiting for purge to start
+2018-08-09  0:04:45 139661013031168 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.36-83.0 started; log sequence number 1616737
+2018-08-09  0:04:45 139660210730752 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-09  0:04:45 139661013031168 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-09  0:04:45 139661013031168 [Note] Server socket created on IP: '0.0.0.0'.
+2018-08-09  0:04:45 139661013031168 [Warning] 'proxies_priv' entry '@% root@mysql' ignored in --skip-name-resolve mode.
+2018-08-09  0:04:46 139661013031168 [Note] mysqld: ready for connections.
+Version: '10.1.31-MariaDB'  socket: '/tmp/mysql/mysqld.sock'  port: 3306  MariaDB Server
+2018-08-09  0:05:50 139661011942144 [Note] mysqld: Normal shutdown
+2018-08-09  0:05:50 139661011942144 [Note] Event Scheduler: Purging the queue. 0 events
+2018-08-09  0:05:50 139660269430528 [Note] InnoDB: FTS optimize thread exiting.
+2018-08-09  0:05:50 139661011942144 [Note] InnoDB: Starting shutdown...
+2018-08-09  0:05:51 139661011942144 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2018-08-09  0:05:52 139661011942144 [Note] InnoDB: Shutdown completed; log sequence number 1616747
+2018-08-09  0:05:52 139661011942144 [Note] mysqld: Shutdown complete
+
+2018-08-09  0:06:12 139691897719040 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-09  0:06:12 139691897719040 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-09  0:06:12 139691897719040 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-09  0:06:12 139691897719040 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-08-09  0:06:12 139691897719040 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2018-08-09  0:06:12 139691897719040 [Note] InnoDB: Compressed tables use zlib 1.2.7
+2018-08-09  0:06:12 139691897719040 [Note] InnoDB: Using Linux native AIO
+2018-08-09  0:06:12 139691897719040 [Note] InnoDB: Using SSE crc32 instructions
+2018-08-09  0:06:12 139691897719040 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2018-08-09  0:06:12 139691897719040 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-09  0:06:12 139691897719040 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-09  0:06:12 139691897719040 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-09  0:06:12 139691897719040 [Note] InnoDB: Waiting for purge to start
+2018-08-09  0:06:12 139691897719040 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.36-83.0 started; log sequence number 1616747
+2018-08-09  0:06:12 139691897719040 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-09  0:06:12 139691097585408 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-09  0:06:12 139691897719040 [Note] Server socket created on IP: '0.0.0.0'.
+2018-08-09  0:06:12 139691897719040 [Warning] 'proxies_priv' entry '@% root@mysql' ignored in --skip-name-resolve mode.
+2018-08-09  0:06:12 139691897719040 [Note] mysqld: ready for connections.
+Version: '10.1.31-MariaDB'  socket: '/tmp/mysql/mysqld.sock'  port: 3306  MariaDB Server
+2018-08-09  0:33:16 139691896630016 [Note] mysqld: Normal shutdown
+2018-08-09  0:33:16 139691896630016 [Note] Event Scheduler: Purging the queue. 0 events
+2018-08-09  0:33:16 139691156285184 [Note] InnoDB: FTS optimize thread exiting.
+2018-08-09  0:33:16 139691896630016 [Note] InnoDB: Starting shutdown...
+2018-08-09  0:33:17 139691896630016 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2018-08-09  0:33:19 139691896630016 [Note] InnoDB: Shutdown completed; log sequence number 1616757
+2018-08-09  0:33:19 139691896630016 [Note] mysqld: Shutdown complete
+
+2018-08-09  0:40:11 140439143778560 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-09  0:40:11 140439143778560 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-09  0:40:11 140439143778560 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-09  0:40:11 140439143778560 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-08-09  0:40:11 140439143778560 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2018-08-09  0:40:11 140439143778560 [Note] InnoDB: Compressed tables use zlib 1.2.7
+2018-08-09  0:40:11 140439143778560 [Note] InnoDB: Using Linux native AIO
+2018-08-09  0:40:11 140439143778560 [Note] InnoDB: Using SSE crc32 instructions
+2018-08-09  0:40:11 140439143778560 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2018-08-09  0:40:11 140439143778560 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-09  0:40:11 140439143778560 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-09  0:40:11 140439143778560 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-09  0:40:11 140439143778560 [Note] InnoDB: Waiting for purge to start
+2018-08-09  0:40:11 140439143778560 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.36-83.0 started; log sequence number 1616757
+2018-08-09  0:40:11 140439143778560 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-09  0:40:11 140438346393344 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-09  0:40:11 140439143778560 [Note] Server socket created on IP: '0.0.0.0'.
+2018-08-09  0:40:11 140439143778560 [Warning] 'proxies_priv' entry '@% root@mysql' ignored in --skip-name-resolve mode.
+2018-08-09  0:40:11 140439143778560 [Note] mysqld: ready for connections.
+Version: '10.1.31-MariaDB'  socket: '/tmp/mysql/mysqld.sock'  port: 3306  MariaDB Server
+2018-08-09  1:47:50 140439142386432 [Note] mysqld: Normal shutdown
+2018-08-09  1:47:50 140439142386432 [Note] Event Scheduler: Purging the queue. 0 events
+2018-08-09  1:47:50 140438392510208 [Note] InnoDB: FTS optimize thread exiting.
+2018-08-09  1:47:50 140439142386432 [Note] InnoDB: Starting shutdown...
+2018-08-09  1:47:51 140439142386432 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2018-08-09  1:47:53 140439142386432 [Note] InnoDB: Shutdown completed; log sequence number 1616767
+2018-08-09  1:47:53 140439142386432 [Note] mysqld: Shutdown complete
+
+2018-08-09 11:20:33 139725795105024 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-09 11:20:33 139725795105024 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-09 11:20:33 139725795105024 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-09 11:20:33 139725795105024 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-08-09 11:20:33 139725795105024 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2018-08-09 11:20:33 139725795105024 [Note] InnoDB: Compressed tables use zlib 1.2.7
+2018-08-09 11:20:33 139725795105024 [Note] InnoDB: Using Linux native AIO
+2018-08-09 11:20:33 139725795105024 [Note] InnoDB: Using SSE crc32 instructions
+2018-08-09 11:20:33 139725795105024 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2018-08-09 11:20:33 139725795105024 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-09 11:20:33 139725795105024 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-09 11:20:33 139725795105024 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-09 11:20:33 139725795105024 [Note] InnoDB: Waiting for purge to start
+2018-08-09 11:20:33 139725795105024 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.36-83.0 started; log sequence number 1616767
+2018-08-09 11:20:33 139725795105024 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-09 11:20:33 139724991756032 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-09 11:20:33 139725795105024 [Note] Server socket created on IP: '0.0.0.0'.
+2018-08-09 11:20:33 139725795105024 [Warning] 'proxies_priv' entry '@% root@mysql' ignored in --skip-name-resolve mode.
+2018-08-09 11:20:33 139725795105024 [Note] mysqld: ready for connections.
+Version: '10.1.31-MariaDB'  socket: '/tmp/mysql/mysqld.sock'  port: 3306  MariaDB Server
+2018-08-09 15:20:08 139725794016000 [Note] mysqld: Normal shutdown
+2018-08-09 15:20:08 139725794016000 [Note] Event Scheduler: Purging the queue. 0 events
+2018-08-09 15:20:08 139725050455808 [Note] InnoDB: FTS optimize thread exiting.
+2018-08-09 15:20:08 139725794016000 [Note] InnoDB: Starting shutdown...
+2018-08-09 15:20:09 139725794016000 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2018-08-09 15:20:10 139725794016000 [Note] InnoDB: Shutdown completed; log sequence number 1616777
+2018-08-09 15:20:10 139725794016000 [Note] mysqld: Shutdown complete
+
+2018-08-09 15:25:21 140355374979328 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-09 15:25:22 140355374979328 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-09 15:25:22 140355374979328 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-09 15:25:22 140355374979328 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-08-09 15:25:22 140355374979328 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2018-08-09 15:25:22 140355374979328 [Note] InnoDB: Compressed tables use zlib 1.2.7
+2018-08-09 15:25:22 140355374979328 [Note] InnoDB: Using Linux native AIO
+2018-08-09 15:25:22 140355374979328 [Note] InnoDB: Using SSE crc32 instructions
+2018-08-09 15:25:22 140355374979328 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2018-08-09 15:25:22 140355374979328 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-09 15:25:22 140355374979328 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-09 15:25:22 140355374979328 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-09 15:25:22 140355374979328 [Note] InnoDB: Waiting for purge to start
+2018-08-09 15:25:22 140355374979328 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.36-83.0 started; log sequence number 1616777
+2018-08-09 15:25:22 140354573563648 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-09 15:25:22 140355374979328 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-09 15:25:22 140355374979328 [Note] Server socket created on IP: '0.0.0.0'.
+2018-08-09 15:25:22 140355374979328 [Warning] 'proxies_priv' entry '@% root@mysql' ignored in --skip-name-resolve mode.
+2018-08-09 15:25:22 140355374979328 [Note] mysqld: ready for connections.
+Version: '10.1.31-MariaDB'  socket: '/tmp/mysql/mysqld.sock'  port: 3306  MariaDB Server
+2018-08-10  3:17:47 140355373890304 [Note] mysqld: Normal shutdown
+2018-08-10  3:17:47 140355373890304 [Note] Event Scheduler: Purging the queue. 0 events
+2018-08-10  3:17:47 140354632263424 [Note] InnoDB: FTS optimize thread exiting.
+2018-08-10  3:17:47 140355373890304 [Note] InnoDB: Starting shutdown...
+2018-08-10  3:17:48 140355373890304 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2018-08-10  3:17:49 140355373890304 [Note] InnoDB: Shutdown completed; log sequence number 1616787
+2018-08-10  3:17:49 140355373890304 [Note] mysqld: Shutdown complete
+
+2018-08-10  3:43:29 140345101625600 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-10  3:43:29 140345101625600 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-10  3:43:29 140345101625600 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-10  3:43:29 140345101625600 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-08-10  3:43:29 140345101625600 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2018-08-10  3:43:29 140345101625600 [Note] InnoDB: Compressed tables use zlib 1.2.7
+2018-08-10  3:43:29 140345101625600 [Note] InnoDB: Using Linux native AIO
+2018-08-10  3:43:29 140345101625600 [Note] InnoDB: Using SSE crc32 instructions
+2018-08-10  3:43:29 140345101625600 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2018-08-10  3:43:29 140345101625600 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-10  3:43:29 140345101625600 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-10  3:43:29 140345101625600 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-10  3:43:29 140345101625600 [Note] InnoDB: Waiting for purge to start
+2018-08-10  3:43:29 140345101625600 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.36-83.0 started; log sequence number 1616787
+2018-08-10  3:43:29 140345101625600 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-10  3:43:29 140344305903360 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-10  3:43:29 140345101625600 [Note] Server socket created on IP: '0.0.0.0'.
+2018-08-10  3:43:29 140345101625600 [Warning] 'proxies_priv' entry '@% root@mysql' ignored in --skip-name-resolve mode.
+2018-08-10  3:43:29 140345101625600 [Note] mysqld: ready for connections.
+Version: '10.1.31-MariaDB'  socket: '/tmp/mysql/mysqld.sock'  port: 3306  MariaDB Server
+2018-08-10  3:43:40 140345100536576 [Note] mysqld: Normal shutdown
+2018-08-10  3:43:40 140345100536576 [Note] Event Scheduler: Purging the queue. 0 events
+2018-08-10  3:43:40 140344352020224 [Note] InnoDB: FTS optimize thread exiting.
+2018-08-10  3:43:40 140345100536576 [Note] InnoDB: Starting shutdown...
+2018-08-10  3:43:41 140345100536576 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2018-08-10  3:43:43 140345100536576 [Note] InnoDB: Shutdown completed; log sequence number 1616797
+2018-08-10  3:43:43 140345100536576 [Note] mysqld: Shutdown complete
+
+2018-08-10 14:25:35 139928114907392 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-10 14:25:36 139928114907392 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-10 14:25:36 139928114907392 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-10 14:25:36 139928114907392 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-08-10 14:25:36 139928114907392 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2018-08-10 14:25:36 139928114907392 [Note] InnoDB: Compressed tables use zlib 1.2.7
+2018-08-10 14:25:36 139928114907392 [Note] InnoDB: Using Linux native AIO
+2018-08-10 14:25:36 139928114907392 [Note] InnoDB: Using SSE crc32 instructions
+2018-08-10 14:25:36 139928114907392 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2018-08-10 14:25:36 139928114907392 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-10 14:25:36 139928114907392 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-10 14:25:36 139928114907392 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-10 14:25:36 139928114907392 [Note] InnoDB: Waiting for purge to start
+2018-08-10 14:25:36 139928114907392 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.36-83.0 started; log sequence number 1616797
+2018-08-10 14:25:36 139927312398080 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-10 14:25:36 139928114907392 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-10 14:25:36 139928114907392 [Note] Server socket created on IP: '0.0.0.0'.
+2018-08-10 14:25:36 139928114907392 [Warning] 'proxies_priv' entry '@% root@mysql' ignored in --skip-name-resolve mode.
+2018-08-10 14:25:36 139928114907392 [Note] mysqld: ready for connections.
+Version: '10.1.31-MariaDB'  socket: '/tmp/mysql/mysqld.sock'  port: 3306  MariaDB Server
+2018-08-10 15:51:45 139928113818368 [Note] mysqld: Normal shutdown
+2018-08-10 15:51:45 139928113818368 [Note] Event Scheduler: Purging the queue. 0 events
+2018-08-10 15:51:45 139927371097856 [Note] InnoDB: FTS optimize thread exiting.
+2018-08-10 15:51:45 139928113818368 [Note] InnoDB: Starting shutdown...
+2018-08-10 15:51:46 139928113818368 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2018-08-10 15:51:47 139928113818368 [Note] InnoDB: Shutdown completed; log sequence number 1616807
+2018-08-10 15:51:47 139928113818368 [Note] mysqld: Shutdown complete
+
+2018-08-10 16:05:21 140230478153984 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-10 16:05:22 140230478153984 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-10 16:05:22 140230478153984 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-10 16:05:22 140230478153984 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-08-10 16:05:22 140230478153984 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2018-08-10 16:05:22 140230478153984 [Note] InnoDB: Compressed tables use zlib 1.2.7
+2018-08-10 16:05:22 140230478153984 [Note] InnoDB: Using Linux native AIO
+2018-08-10 16:05:22 140230478153984 [Note] InnoDB: Using SSE crc32 instructions
+2018-08-10 16:05:22 140230478153984 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2018-08-10 16:05:22 140230478153984 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-10 16:05:22 140230478153984 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-10 16:05:22 140230478153984 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-10 16:05:22 140230478153984 [Note] InnoDB: Waiting for purge to start
+2018-08-10 16:05:22 140230478153984 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.36-83.0 started; log sequence number 1616807
+2018-08-10 16:05:22 140229675579136 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-10 16:05:22 140230478153984 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-10 16:05:22 140230478153984 [Note] Server socket created on IP: '0.0.0.0'.
+2018-08-10 16:05:22 140230478153984 [Warning] 'proxies_priv' entry '@% root@mysql' ignored in --skip-name-resolve mode.
+2018-08-10 16:05:22 140230478153984 [Note] mysqld: ready for connections.
+Version: '10.1.31-MariaDB'  socket: '/tmp/mysql/mysqld.sock'  port: 3306  MariaDB Server
+2018-08-11 11:26:48 140230477064960 [Note] mysqld: Normal shutdown
+2018-08-11 11:26:48 140230477064960 [Note] Event Scheduler: Purging the queue. 0 events
+2018-08-11 11:26:48 140229725886208 [Note] InnoDB: FTS optimize thread exiting.
+2018-08-11 11:26:48 140230477064960 [Note] InnoDB: Starting shutdown...
+2018-08-11 11:26:49 140230477064960 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2018-08-11 11:26:51 140230477064960 [Note] InnoDB: Shutdown completed; log sequence number 1723111
+2018-08-11 11:26:51 140230477064960 [Note] mysqld: Shutdown complete
+
+2018-08-11 11:27:06 139620929050880 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-11 11:27:06 139620929050880 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-11 11:27:06 139620929050880 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-11 11:27:06 139620929050880 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-08-11 11:27:06 139620929050880 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2018-08-11 11:27:06 139620929050880 [Note] InnoDB: Compressed tables use zlib 1.2.7
+2018-08-11 11:27:06 139620929050880 [Note] InnoDB: Using Linux native AIO
+2018-08-11 11:27:06 139620929050880 [Note] InnoDB: Using SSE crc32 instructions
+2018-08-11 11:27:06 139620929050880 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2018-08-11 11:27:06 139620929050880 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-11 11:27:06 139620929050880 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-11 11:27:06 139620929050880 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-11 11:27:06 139620929050880 [Note] InnoDB: Waiting for purge to start
+2018-08-11 11:27:06 139620929050880 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.36-83.0 started; log sequence number 1723111
+2018-08-11 11:27:06 139620125767424 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-11 11:27:06 139620929050880 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-11 11:27:06 139620929050880 [Note] Server socket created on IP: '0.0.0.0'.
+2018-08-11 11:27:06 139620929050880 [Warning] 'proxies_priv' entry '@% root@mysql' ignored in --skip-name-resolve mode.
+2018-08-11 11:27:06 139620929050880 [Note] mysqld: ready for connections.
+Version: '10.1.31-MariaDB'  socket: '/tmp/mysql/mysqld.sock'  port: 3306  MariaDB Server
+2018-08-12  6:44:47 139620848696064 [Note] mysqld: Normal shutdown
+2018-08-12  6:44:47 139620848696064 [Note] Event Scheduler: Purging the queue. 0 events
+2018-08-12  6:44:47 139620184467200 [Note] InnoDB: FTS optimize thread exiting.
+2018-08-12  6:44:47 139620848696064 [Note] InnoDB: Starting shutdown...
+2018-08-12 11:36:34 140461056751872 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-12 11:36:34 140461056751872 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-12 11:36:34 140461056751872 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-12 11:36:34 140461056751872 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-08-12 11:36:34 140461056751872 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2018-08-12 11:36:34 140461056751872 [Note] InnoDB: Compressed tables use zlib 1.2.7
+2018-08-12 11:36:34 140461056751872 [Note] InnoDB: Using Linux native AIO
+2018-08-12 11:36:34 140461056751872 [Note] InnoDB: Using SSE crc32 instructions
+2018-08-12 11:36:34 140461056751872 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2018-08-12 11:36:34 140461056751872 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-12 11:36:34 140461056751872 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-12 11:36:34 140461056751872 [Note] InnoDB: The log sequence number 1723111 in ibdata file do not match the log sequence number 2015211 in the ib_logfiles!
+2018-08-12 11:36:34 140461056751872 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-08-12 11:36:34 140461056751872 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-12 11:36:34 140461056751872 [Note] InnoDB: Waiting for purge to start
+2018-08-12 11:36:34 140461056751872 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.36-83.0 started; log sequence number 2015211
+2018-08-12 11:36:34 140460249052928 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-12 11:36:34 140461056751872 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-12 11:36:34 140461056751872 [Note] Recovering after a crash using tc.log
+2018-08-12 11:36:34 140461056751872 [Note] Starting crash recovery...
+2018-08-12 11:36:34 140461056751872 [Note] Crash recovery finished.
+2018-08-12 11:36:34 140461056751872 [Note] Server socket created on IP: '0.0.0.0'.
+2018-08-12 11:36:34 140461056751872 [Warning] 'proxies_priv' entry '@% root@mysql' ignored in --skip-name-resolve mode.
+2018-08-12 11:36:34 140461056751872 [Note] mysqld: ready for connections.
+Version: '10.1.31-MariaDB'  socket: '/tmp/mysql/mysqld.sock'  port: 3306  MariaDB Server
+2018-08-12 11:40:12 140461055662848 [Note] mysqld: Normal shutdown
+2018-08-12 11:40:12 140461055662848 [Note] Event Scheduler: Purging the queue. 0 events
+2018-08-12 11:40:12 140460303566592 [Note] InnoDB: FTS optimize thread exiting.
+2018-08-12 11:40:12 140461055662848 [Note] InnoDB: Starting shutdown...
+2018-08-12 11:40:12 140461055662848 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2018-08-12 11:40:14 140461055662848 [Note] InnoDB: Shutdown completed; log sequence number 2015221
+2018-08-12 11:40:14 140461055662848 [Note] mysqld: Shutdown complete
+
+2018-08-12 11:40:31 139929801099520 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-12 11:40:31 139929801099520 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-12 11:40:31 139929801099520 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-12 11:40:31 139929801099520 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-08-12 11:40:31 139929801099520 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2018-08-12 11:40:31 139929801099520 [Note] InnoDB: Compressed tables use zlib 1.2.7
+2018-08-12 11:40:31 139929801099520 [Note] InnoDB: Using Linux native AIO
+2018-08-12 11:40:31 139929801099520 [Note] InnoDB: Using SSE crc32 instructions
+2018-08-12 11:40:31 139929801099520 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2018-08-12 11:40:31 139929801099520 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-12 11:40:31 139929801099520 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-12 11:40:31 139929801099520 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-12 11:40:31 139929801099520 [Note] InnoDB: Waiting for purge to start
+2018-08-12 11:40:31 139929801099520 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.36-83.0 started; log sequence number 2015221
+2018-08-12 11:40:31 139928998508288 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-12 11:40:31 139929801099520 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-12 11:40:31 139929801099520 [Note] Server socket created on IP: '0.0.0.0'.
+2018-08-12 11:40:31 139929801099520 [Warning] 'proxies_priv' entry '@% root@mysql' ignored in --skip-name-resolve mode.
+2018-08-12 11:40:31 139929801099520 [Note] mysqld: ready for connections.
+Version: '10.1.31-MariaDB'  socket: '/tmp/mysql/mysqld.sock'  port: 3306  MariaDB Server
