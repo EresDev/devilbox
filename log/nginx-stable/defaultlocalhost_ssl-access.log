@@ -1,0 +1,6 @@
+172.16.238.1 - - [12/Aug/2018:23:35:38 +0200] "GET /sdk/vimServiceVersions.xml HTTP/1.1" 200 24754 "-" "VMware-client"
+172.16.238.1 - - [12/Aug/2018:23:35:38 +0200] "GET /sdk/vimService?wsdl HTTP/1.1" 200 24754 "-" "VMware-client"
+172.16.238.1 - - [12/Aug/2018:23:35:38 +0200] "POST /sdk HTTP/1.1" 200 24754 "-" "VMware-client"
+172.16.238.1 - - [12/Aug/2018:23:36:35 +0200] "GET /sdk/vimServiceVersions.xml HTTP/1.1" 200 24754 "-" "VMware-client"
+172.16.238.1 - - [12/Aug/2018:23:36:35 +0200] "GET /sdk/vimService?wsdl HTTP/1.1" 200 24754 "-" "VMware-client"
+172.16.238.1 - - [12/Aug/2018:23:36:35 +0200] "POST /sdk HTTP/1.1" 200 24754 "-" "VMware-client"
